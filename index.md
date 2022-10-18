@@ -12,3 +12,4 @@ layout: homepage
 - [Caltech](https://www.library.caltech.edu)
 - [Claremont Graduate University](https://www.cgu.edu)
 - [Eagle Rock](https://laist.com/news/entertainment/ten-things-eagle-rock)
+- [Melbourne](https://www.thecrazytourist.com/25-best-things-melbourne-australia/)
